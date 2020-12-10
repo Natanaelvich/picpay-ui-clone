@@ -3,7 +3,8 @@
 
 ## GIFs
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/52014318/88746183-4a11df80-d122-11ea-95a3-676b9e8bb2ea.gif" width="375" />
+<img src="https://user-images.githubusercontent.com/52014318/88746183-4a11df80-d122-11ea-95a3-676b9e8bb2ea.gif" width="375"  />
+<img src="https://user-images.githubusercontent.com/52014318/101772712-7d01b200-3aca-11eb-97fd-d321f878bc28.gif" width="375"/>
 </p>
 
 ## Requirements
